@@ -14,7 +14,7 @@ import Landing from "./components/Landing/Landing.tsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/JTC-fav-react-resources",
     element: <Root />,
     errorElement: <ErrorPage />,
     loader: rootLoader,
