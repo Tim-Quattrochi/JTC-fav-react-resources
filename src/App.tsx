@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Initial setup</h1>
+      {/* Intentionally left blank as all my views/routing are in src/main.tsx */}
     </div>
   );
 }
